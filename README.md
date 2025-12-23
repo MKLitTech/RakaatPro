@@ -23,9 +23,12 @@ We have all had those times where we forgot what raakat we were on. This is made
 ```
 Release Date?
 ```bash
-Hopefully late January, we want to get this out before Ramadaan 2026!
+Hopefully late January, we want to get this out before Ramadan 2026!
 ```
-
+Plans for a Andriod version?
+```bash
+If the iOS version does well we will definitely look into a andriod version.
+```
 
 ## Contributing
 
