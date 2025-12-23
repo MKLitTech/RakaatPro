@@ -27,7 +27,7 @@ Hopefully late January, we want to get this out before Ramadan 2026!
 ```
 Plans for a Andriod version?
 ```bash
-If the iOS version does well we will definitely look into a andriod version.
+If the iOS version does well we will definitely look into a android version.
 ```
 
 ## Contributing
