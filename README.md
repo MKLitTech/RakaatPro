@@ -60,17 +60,6 @@ I'm not saying this to advertise anything. I'm saying it because it's honest —
 
 ---
 
-## Roadmap
-
-- [ ] Home screen widget (WidgetKit)
-- [ ] Hijri calendar view
-- [ ] Actual adhan audio notifications
-- [ ] iPad layout
-- [ ] Localization — Arabic, Urdu, Turkish
-- [ ] App Store / TestFlight release
-
----
-
 ## License
 
 MIT — do whatever you want with it, just don't sell it with ads.
